@@ -1,4 +1,4 @@
-package part3Testing
+package part3testing
 
 import scala.util.Random
 
